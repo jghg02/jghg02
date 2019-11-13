@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Josue Web Pages
 
 You can use the [editor on GitHub](https://github.com/jghg02/jghg02/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
