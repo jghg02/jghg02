@@ -5,6 +5,8 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another_page.html).
+[iOS](./ios/default.html).
+[Rigging](./3d/default.md).
 
 There should be whitespace between paragraphs.
 
